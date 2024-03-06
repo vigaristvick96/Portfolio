@@ -1,0 +1,12 @@
+body{
+    font-weight: 400;
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: rgb(26, 27, 19);
+    margin: 0;
+ }
+ 
+ section, footer{
+     margin: 40px;
+ }
